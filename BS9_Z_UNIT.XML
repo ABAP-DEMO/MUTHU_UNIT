@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite created="20190412 162614">
+   <testcase classname="AYUSH.Z_MS_PRODUCT_INFO1~GET_CHANNEL_DES" name="Z_MS_PRODUCT_INFO_ABAP_UNIT" time="0.0" >
+      <failure message="Product details mismatch with expected values" type="ABAP Unit Test error">Error found.</failure>
+   </testcase>
+   <testcase classname="AYUSH.Z_MS_PRODUCT_INFO1~GET_PRODUCT_DETAILS" name="Z_MS_PRODUCT_INFO_ABAP_UNIT" time="0.0" >
+      <failure message="Validity dates of the product is not getting matched with the expected dates" type="ABAP Unit Test error">Error found.</failure>
+   </testcase>
+   <testcase classname="AYUSH.Z_MS_PRODUCT_INFO1~VALIDATE" name="Z_MS_PRODUCT_INFO_ABAP_UNIT" time="0.0" />
+</testsuite>
